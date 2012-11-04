@@ -108,6 +108,8 @@
     j=1;
     
     
+    
+    
 }
 
 - (IBAction)clear:(id)sender {
